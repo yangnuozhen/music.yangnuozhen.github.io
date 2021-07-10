@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "mousetrap": "^1.6.1",
-    "electron": "^1.7.10",
-    "electron-packager": "^10.1.0"
-  }
-}
