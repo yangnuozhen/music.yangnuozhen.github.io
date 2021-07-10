@@ -12,7 +12,7 @@
 
 ## 下载
 
-Clone仓库（以zip形式）到本地，解压缩后应用网站即可。
+请前往[原仓库](https://github.com/maicong/music)克隆下载。
 
 ## 解决方案
 
